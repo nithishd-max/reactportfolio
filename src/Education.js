@@ -23,7 +23,7 @@ const Education = () => (
                     <p>Percentage: 98.87</p>
                 </div>
                 <div className="flex-shrink-0">
-                    <span className="text-primary">June 2014 - April 2016</span>
+                    <span className="text-primary">2014-2016</span>
                 </div>
             </div>
         </div>
